@@ -24,4 +24,6 @@ I am on a mission to conquer the world of front-end development. I am constantly
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmadabdallahh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
