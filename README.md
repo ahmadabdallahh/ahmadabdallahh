@@ -23,9 +23,10 @@ I am on a mission to conquer the world of front-end development. I am constantly
 ![](https://github-contributor-stats.vercel.app/api?username=ahmadabdallahh&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmadabdallahh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+[![](https://visitcount.itsvg.in/api?id=ahmadabdallahh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
 
