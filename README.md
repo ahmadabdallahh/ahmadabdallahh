@@ -128,13 +128,11 @@ fun_fact: 'I turn coffee into code ☕'
 
 ---
 
-## 🐍 Contribution Snake
+## 🌊 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahmadabdallahh/ahmadabdallahh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-
-<sub>🐍 Snake eating my GitHub contributions — auto-updated daily via GitHub Actions</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadabdallahh&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -146,10 +144,10 @@ fun_fact: 'I turn coffee into code ☕'
 
 <div align="center">
 
-| Project                                                                           | Description              |
-| :-------------------------------------------------------------------------------- | :----------------------- |
-| 🧠 [softskillify-mvp-V19](https://github.com/ahmadabdallahh/softskillify-mvp-V19) | Soft skills learning MVP |
-| 🎓 [tansiq-simulator](https://github.com/ahmadabdallahh/tansiq-simulator)         | Tansiq simulation tool   |
+| Project                                                                        | Description                      |
+| :------------------------------------------------------------------------------ | :------------------------------- |
+| 🧠 [Soft-Skillify](https://github.com/ahmadabdallahh/Soft-Skillify)              | Soft skills learning platform    |
+| 🛒 [ecommerce-mehana](https://github.com/ahmadabdallahh/ecommerce-mehana)         | E-commerce web application       |
 
 </div>
 
@@ -203,8 +201,8 @@ fun_fact: 'I turn coffee into code ☕'
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ahmadabhossen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadabdallahh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmadabdallahh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadabdallahh.vercel.app)
+[![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmadabdallahh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ahmadabdallahh/ahmad-portfolio)
 
 <br/>
 
