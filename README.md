@@ -144,15 +144,6 @@ fun_fact: 'I turn coffee into code ☕'
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-| Project                                                                        | Description                      |
-| :------------------------------------------------------------------------------ | :------------------------------- |
-| 🧠 [Soft-Skillify](https://github.com/ahmadabdallahh/Soft-Skillify)              | Soft skills learning platform    |
-| 🛒 [ecommerce-mehana](https://github.com/ahmadabdallahh/ecommerce-mehana)         | E-commerce web application       |
-
-</div>
-
 <details>
 <summary><b>More Projects 📚</b></summary>
 <br/>
