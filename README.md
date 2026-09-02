@@ -112,6 +112,8 @@ fun_fact: 'I turn coffee into code ☕'
 
 <img src="https://streak-stats.demolab.com?user=ahmadabdallahh&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=c9d1d9" alt="GitHub Streak" width="70%"/>
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadabdallahh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 <br/>
@@ -132,9 +134,13 @@ fun_fact: 'I turn coffee into code ☕'
 
 <div align="center">
 
-<img src="https://gh-motion-card.vercel.app/api/github-motion?username=ahmadabdallahh&animation=snake&theme=tokyonight&hide_total=true&hide_streaks=true&hide_rank=true" alt="Contribution Snake Animation" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadabdallahh/ahmadabdallahh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadabdallahh/ahmadabdallahh/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ahmadabdallahh/ahmadabdallahh/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-<sub>🐍 Snake eating my GitHub contributions — generated live (no GitHub Actions needed)</sub>
+<sub>🐍 Snake eating my GitHub contributions</sub>
 
 </div>
 
