@@ -1,31 +1,20 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Ahmad%20Abdalalh&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Crafting%20Digital%20Experiences&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<a href="https://github.com/ahmadabdallahh">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Ahmad%20Abdallahh&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Crafting%20Digital%20Experiences&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+</a>
 
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=ahmadabdallahh&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-</div>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ahmad+Abdallahh;Front-End+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<!-- Typing SVG -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ahmad+Abdalalh;Front-End+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 <br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- Shield Badges -->
-<div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/ahmadabdallahh?label=Followers&style=social)](https://github.com/ahmadabdallahh?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/ahmadabdallahh?style=social)](https://github.com/ahmadabdallahh?tab=stars)
@@ -35,33 +24,32 @@
 
 <br/>
 
-<!-- About Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/giphy.gif?raw=true" width="30"/> About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td>
 
 ```yaml
-name: "Ahmad Abdalalh"
-location: "El-bahira, Egypt"
+name: "Ahmad Abdallahh"
+location: "El-Bahira, Egypt 🇪🇬"
 currently_learning:
   - "React & Next.js"
   - "TypeScript"
-  - "Modern CSS"
+  - "Modern CSS Animations"
+  - "UI/UX Design Principles"
 hobbies:
-  - "Building UI Components"
-  - "Animation & Transitions"
+  - "Building Beautiful UIs"
+  - "Motion & Animations"
   - "Open Source"
+  - "Photography 📷"
 fun_fact: "I turn coffee into code ☕"
 ```
 
 </td>
 <td>
 
-<img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/devgif.png?raw=true" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 
 </td>
 </tr>
@@ -69,10 +57,9 @@ fun_fact: "I turn coffee into code ☕"
 
 <br/>
 
-<!-- Tech Stack -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/gif.gif?raw=true" width="30"/> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -106,23 +93,21 @@ fun_fact: "I turn coffee into code ☕"
 
 <br/>
 
-<!-- GitHub Stats -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/earth.gif?raw=true" width="30"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/ahmadabdallahh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadabdallahh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdallahh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadabdallahh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdallahh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <br/>
 
-<!-- Streak Stats -->
+## 🔥 Streak Stats
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ahmadabdallahh&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=c9d1d9" alt="GitHub Streak" width="70%"/>
@@ -131,7 +116,8 @@ fun_fact: "I turn coffee into code ☕"
 
 <br/>
 
-<!-- Activity Graph -->
+## 📈 Activity Graph
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadabdallahh&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=00d4ff&hide_border=true" alt="Activity Graph" width="90%"/>
@@ -140,23 +126,23 @@ fun_fact: "I turn coffee into code ☕"
 
 <br/>
 
-<!-- Snake Animation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/snake.gif?raw=true" width="30"/> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ahmadabdallahh/ahmadabdallahh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
+<sub>🐍 Snake eating my GitHub contributions — auto-updated daily via GitHub Actions</sub>
+
 </div>
 
 <br/>
 
-<!-- Featured Projects -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/Comp.gif?raw=true" width="30"/> Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -188,10 +174,9 @@ fun_fact: "I turn coffee into code ☕"
 
 <br/>
 
-<!-- Achievements & Trophies -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/trophy.gif?raw=true" width="30"/> Achievements & Trophies
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
@@ -201,23 +186,9 @@ fun_fact: "I turn coffee into code ☕"
 
 <br/>
 
-<!-- Waka Stats -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/coding.gif?raw=true" width="30"/> Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadabdallahh&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=c9d1d9" alt="Streak Stats" width="70%"/>
-
-</div>
-
-<br/>
-
-<!-- Random Dev Quote -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/lightning.gif?raw=true" width="30"/> Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
 
@@ -227,14 +198,13 @@ fun_fact: "I turn coffee into code ☕"
 
 <br/>
 
-<!-- Footer -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-### <img src="https://github.com/ahmadabdallahh/ahmadabdallahh/blob/output/connect.gif?raw=true" width="25"/> Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ahmadabdallah@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ahmadabhossen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadabdallahh)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmadabdallahh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadabdallahh.vercel.app)
