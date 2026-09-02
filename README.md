@@ -116,11 +116,11 @@ fun_fact: "I turn coffee into code ☕"
 
 <br/>
 
-## 📈 Activity Graph
+## 📈 Contribution Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadabdallahh&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=00d4ff&hide_border=true" alt="Activity Graph" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadabdallahh&theme=tokyonight" alt="Contribution Overview" width="100%"/>
 
 </div>
 
