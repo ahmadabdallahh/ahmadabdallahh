@@ -35,18 +35,18 @@
 <td>
 
 ```yaml
-name: 'Ahmad Abdallahh'
-location: 'El-Bahira, Egypt 🇪🇬'
+name: 'Ahmad Abdallah'
+location: 'Itay El-Baroud, Egypt 🇪🇬'
 currently_learning:
   - 'React & Next.js'
   - 'TypeScript'
   - 'Modern CSS Animations'
-  - 'UI/UX Design Principles'
+  - 'Tailwind CSS & CSS Grid'
 hobbies:
   - 'Building Beautiful UIs'
   - 'Motion & Animations'
-  - 'Open Source'
-  - 'Photography 📷'
+  - 'Reading & Writing'
+  - 'Coding'
 fun_fact: 'I turn coffee into code ☕'
 ```
 
