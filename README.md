@@ -128,11 +128,13 @@ fun_fact: 'I turn coffee into code ☕'
 
 ---
 
-## 🌊 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadabdallahh&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=ahmadabdallahh&animation=snake&theme=tokyonight&hide_total=true&hide_streaks=true&hide_rank=true" alt="Contribution Snake Animation" width="100%"/>
+
+<sub>🐍 Snake eating my GitHub contributions — generated live (no GitHub Actions needed)</sub>
 
 </div>
 
