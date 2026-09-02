@@ -1,8 +1,12 @@
 <div align="center">
 
+<div align="center">
+
 <a href="https://github.com/ahmadabdallahh">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Ahmad%20Abdallahh&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%React.js%20&&%20Next.js&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Ahmad%20Abdallah&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Next.js%20%26amp%3B%26amp%3B%20React.js&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 </a>
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=ahmadabdallahh&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -140,8 +144,6 @@ fun_fact: 'I turn coffee into code ☕'
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ahmadabdallahh/ahmadabdallahh/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>🐍 Snake eating my GitHub contributions</sub>
-
 </div>
 
 <br/>
@@ -182,26 +184,13 @@ fun_fact: 'I turn coffee into code ☕'
 
 ---
 
-## 💡 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="60%"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ahmadabhossen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadabdallahh)
-[![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmadabdallahh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ahmadabdallahh/ahmad-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmad-abdallah.vercel.app/)
 
 <br/>
 
