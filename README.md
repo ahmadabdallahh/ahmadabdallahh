@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ahmadabdallahh">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Ahmad%20Abdallahh&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Crafting%20Digital%20Experiences&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Ahmad%20Abdallahh&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%React.js%20&&%20Next.js&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ahmadabdallahh&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -31,19 +31,19 @@
 <td>
 
 ```yaml
-name: "Ahmad Abdallahh"
-location: "El-Bahira, Egypt 🇪🇬"
+name: 'Ahmad Abdallahh'
+location: 'El-Bahira, Egypt 🇪🇬'
 currently_learning:
-  - "React & Next.js"
-  - "TypeScript"
-  - "Modern CSS Animations"
-  - "UI/UX Design Principles"
+  - 'React & Next.js'
+  - 'TypeScript'
+  - 'Modern CSS Animations'
+  - 'UI/UX Design Principles'
 hobbies:
-  - "Building Beautiful UIs"
-  - "Motion & Animations"
-  - "Open Source"
-  - "Photography 📷"
-fun_fact: "I turn coffee into code ☕"
+  - 'Building Beautiful UIs'
+  - 'Motion & Animations'
+  - 'Open Source'
+  - 'Photography 📷'
+fun_fact: 'I turn coffee into code ☕'
 ```
 
 </td>
@@ -99,8 +99,8 @@ fun_fact: "I turn coffee into code ☕"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadabdallahh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdallahh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadabdallahh&theme=tokyonight" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadabdallahh&theme=tokyonight" />
 
 </div>
 
@@ -146,31 +146,28 @@ fun_fact: "I turn coffee into code ☕"
 
 <div align="center">
 
-<a href="https://github.com/ahmadabdallahh/softskillify-mvp-V19">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadabdallahh&repo=softskillify-mvp-V19&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ahmadabdallahh/tansiq-simulator">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadabdallahh&repo=tansiq-simulator&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ahmadabdallahh/memory-game">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadabdallahh&repo=memory-game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ahmadabdallahh/quiz-app">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadabdallahh&repo=quiz-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ahmadabdallahh/my-personal-portfolio">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadabdallahh&repo=my-personal-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ahmadabdallahh/place-picker">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadabdallahh&repo=place-picker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
+| Project                                                                           | Description              |
+| :-------------------------------------------------------------------------------- | :----------------------- |
+| 🧠 [softskillify-mvp-V19](https://github.com/ahmadabdallahh/softskillify-mvp-V19) | Soft skills learning MVP |
+| 🎓 [tansiq-simulator](https://github.com/ahmadabdallahh/tansiq-simulator)         | Tansiq simulation tool   |
 
 </div>
+
+<details>
+<summary><b>More Projects 📚</b></summary>
+<br/>
+
+<div align="center">
+
+| Project                                                                             | Description                   |
+| :---------------------------------------------------------------------------------- | :---------------------------- |
+| 🃏 [memory-game](https://github.com/ahmadabdallahh/memory-game)                     | Fun browser memory game       |
+| ❓ [quiz-app](https://github.com/ahmadabdallahh/quiz-app)                           | Interactive quiz application  |
+| 🎨 [my-personal-portfolio](https://github.com/ahmadabdallahh/my-personal-portfolio) | My personal portfolio website |
+| 📍 [place-picker](https://github.com/ahmadabdallahh/place-picker)                   | Place picker app              |
+
+</div>
+</details>
 
 <br/>
 
@@ -180,7 +177,7 @@ fun_fact: "I turn coffee into code ☕"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmadabdallahh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=ahmadabdallahh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%"/>
 
 </div>
 
